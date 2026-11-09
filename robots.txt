@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://peukianm.github.io/Together-Home/sitemap.xml
