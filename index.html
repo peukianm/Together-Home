@@ -35,6 +35,13 @@ html[lang="en"] .lang-el{display:none!important}html[lang="el"] .lang-en{display
 .footer-social{display:flex;justify-content:center;margin-bottom:10px}
 .footer-social .facebook-link{min-height:44px;color:inherit;font-size:.875rem;text-decoration:none}
 
+
+/* Direct month and year selection through the final calendar month. */
+.avail-period-selects,.bdp-jump{display:flex;gap:8px;margin:0 0 12px}
+.avail-period-selects select,.bdp-jump select{box-sizing:border-box;min-width:0;flex:1;border-radius:7px;padding:7px 8px;font-size:14px;line-height:1.2}
+.avail-period-selects select{background:#303030;color:#f1d785;border:1px solid #736240}
+.bdp-jump select{background:#fff;color:#222;border:1px solid #b8b0a0}
+.avail-period-selects select:last-child,.bdp-jump select:last-child{flex:0 0 90px}
 </style><meta name="description" content="Δύο διαμερίσματα για διαμονή στο Μουζάκι Καρδίτσας με κοινόχρηστο κήπο. Εξερευνήστε Τρίκαλα, Λίμνη Πλαστήρα, Μετέωρα, Ελάτη, Περτούλι και Μύλο των Ξωτικών.">
 
 <link rel="canonical" href="https://together-home.gr/">
@@ -177,6 +184,7 @@ function setLang(lang){if(!translations[lang])lang='en';document.documentElement
   });
   refreshLinks();
 })();
-</script><script src="/booking-datepicker.js" defer></script>
+</script><script src="/booking-datepicker.js?v=20261121-calendar2030" defer></script>
 </body></html>
+
 
