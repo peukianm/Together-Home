@@ -32,4 +32,32 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://together-home.gr/en/limni-plastira/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://together-home.gr/limni-plastira/" />
   </url>
+  <url>
+    <loc>https://together-home.gr/meteora-kalampaka/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="el" href="https://together-home.gr/meteora-kalampaka/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://together-home.gr/en/meteora-kalampaka/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://together-home.gr/meteora-kalampaka/" />
+  </url>
+  <url>
+    <loc>https://together-home.gr/en/meteora-kalampaka/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="el" href="https://together-home.gr/meteora-kalampaka/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://together-home.gr/en/meteora-kalampaka/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://together-home.gr/meteora-kalampaka/" />
+  </url>
+  <url>
+    <loc>https://together-home.gr/elati-pertouli/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="el" href="https://together-home.gr/elati-pertouli/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://together-home.gr/en/elati-pertouli/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://together-home.gr/elati-pertouli/" />
+  </url>
+  <url>
+    <loc>https://together-home.gr/en/elati-pertouli/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="el" href="https://together-home.gr/elati-pertouli/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://together-home.gr/en/elati-pertouli/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://together-home.gr/elati-pertouli/" />
+  </url>
 </urlset>
